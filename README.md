@@ -19,14 +19,7 @@
 - Frameworks & Libraries: [List of Frameworks]
 - Tools & Platforms: [List of Tools]
 
-### Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Masralai&layout=compact&theme=radical)
-
-### Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ### Connect with Me
 
