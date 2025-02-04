@@ -19,10 +19,6 @@
 - Frameworks & Libraries: [List of Frameworks]
 - Tools & Platforms: [List of Tools]
 
-### GitHub Stats
-
-![Masralai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masralai&show_icons=true&theme=radical)
-
 ### Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Masralai&layout=compact&theme=radical)
