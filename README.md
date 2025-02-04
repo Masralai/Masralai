@@ -6,11 +6,8 @@
 
 - 🔭 I’m currently working on [Your Project Name].
 - 🌱 I’m currently learning [Technology/Skill You're Learning].
-- 👯 I’m looking to collaborate on [Open Source Project/Type of Projects].
-- 🤔 I’m looking for help with [Area Where You Need Help].
 - 💬 Ask me about [Your Expertise/Topics You Enjoy Discussing].
 - 📫 How to reach me: [Your Email/LinkedIn/Twitter].
-- 😄 Pronouns: [Your Pronouns].
 - ⚡ Fun fact: [Something Interesting About You].
 
 ### My Skills
@@ -20,11 +17,9 @@
 - Tools & Platforms: [List of Tools]
 
 
-
 ### Connect with Me
 
 - [LinkedIn](Your LinkedIn URL)
-- [Twitter](Your Twitter URL)
 - [Personal Website/Blog](Your Website/Blog URL)
 
 <!-- Optional: Add more sections as needed -->
