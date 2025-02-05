@@ -1,6 +1,6 @@
 <!-- Profile README for Masralai -->
 
-## Hi there, I'm Masralai! 👋
+## Hi there, I'm Masralai! ^_^
 
 ### About Me
 
