@@ -12,7 +12,7 @@
 
 ### My Skills
 
-- Programming Languages & Tools : C, C++, Python, HTML, CSS, Javascript, TypeScript, React.js, Tailwind
+- Programming Languages & Tools : C, C++, Python, HTML, CSS, Javascript, TypeScript, React.js, Tailwind, MySQL, MongoDB
 
 
 ### Connect with Me
