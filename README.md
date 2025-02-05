@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on my portfolio.
 - 🌱 I’m currently learning about Neural Networks.
 - 💬 Ask me about Web Development , DSA or Machine Learning.
-- ⚡ Fun fact: I sleep alot :p.
+- ⚡ Fun fact: I remember all my dreams and also debug my real-world nightmares
 <!--- 📫 How to reach me: [Your Email/LinkedIn/Twitter].-->
 
 ### My Skills
