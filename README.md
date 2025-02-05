@@ -15,12 +15,6 @@
 - Programming Languages & Tools : C, C++, Python, HTML, CSS, Javascript, TypeScript, React.js, Tailwind, MySQL, MongoDB
 
 
-### Connect with Me
-
-- [LinkedIn](Your LinkedIn URL)
-<!-- [Personal Website/Blog](Your Website/Blog URL)-->
-
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Masralai&theme=2077)
 
 
