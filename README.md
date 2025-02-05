@@ -4,23 +4,21 @@
 
 ### About Me
 
-- 🔭 I’m currently working on [Your Project Name].
-- 🌱 I’m currently learning [Technology/Skill You're Learning].
-- 💬 Ask me about [Your Expertise/Topics You Enjoy Discussing].
-- 📫 How to reach me: [Your Email/LinkedIn/Twitter].
-- ⚡ Fun fact: [Something Interesting About You].
+- 🔭 I’m currently working on my portfolio.
+- 🌱 I’m currently learning about Neural Networks.
+- 💬 Ask me about Web Development , DSA or Machine Learning.
+<!--- 📫 How to reach me: [Your Email/LinkedIn/Twitter].-->
+- ⚡ Fun fact: I sleep alot :p.
 
 ### My Skills
 
-- Programming Languages: [List of Languages]
-- Frameworks & Libraries: [List of Frameworks]
-- Tools & Platforms: [List of Tools]
+- Programming Languages & Tools: C, C++, Python, HTML, CSS, Javascript, TypeScript, React.js, Tailwind
 
 
 ### Connect with Me
 
 - [LinkedIn](Your LinkedIn URL)
-- [Personal Website/Blog](Your Website/Blog URL)
+<!-- [Personal Website/Blog](Your Website/Blog URL)-->
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Masralai&theme=2077)
