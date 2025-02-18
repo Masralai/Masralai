@@ -5,7 +5,7 @@
 ### About Me
 
 - 🔭 I’m currently working on my portfolio.
-- 🌱 I’m currently learning about Neural Networks.
+- 🌱 I’m currently learning about Neural Networks & Backend.
 - 💬 Ask me about Web Development , DSA or Machine Learning.
 - ⚡ Fun fact: I remember all my dreams and also debug my real-world nightmares
 <!--- 📫 How to reach me: [Your Email/LinkedIn/Twitter].-->
