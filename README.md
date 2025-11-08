@@ -12,7 +12,7 @@
 
 ### My Skills
 
-- Programming Languages & Tools: C, C++, Python, Go, HTML, Tailwind CSS,  Javascript, TypeScript, React.js, Nodejs, Next.js, Express.js, Flask, MongoDB, MySQL, DynamoDB
+- Programming Languages & Tools: C, C++, Python, Go, Javascript, TypeScript, HTML, Tailwind CSS, React.js, Nodejs, Next.js, Express.js, FastAPI, Flask, MongoDB, MySQL, DynamoDB
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Masralai&theme=2077)
