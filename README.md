@@ -4,7 +4,7 @@
 
 ### About Me
 
-- 🔭 I’m currently working on my portfolio.
+- 🔭 I’m building stuff.
 - 🌱 I’m currently learning about Neural Networks & DevOps
 - 💬 Ask me about Web Development , DSA or Machine Learning.
 - ⚡ Fun fact: I remember all my dreams.
