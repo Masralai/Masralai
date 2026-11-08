@@ -5,7 +5,7 @@
 ### About Me
 
 - 🌱 I’m currently grinding DSA. Again.
-- 💬 Ask me about Web Dev, DSA or Machine Learning.
+- 💬 Ask me about Backend Systems, DSA or Machine Learning.
 - ⚡ Fun fact: I remember all my dreams.
 <!--- 📫 How to reach me: [Your Email/LinkedIn/Twitter].-->
 
